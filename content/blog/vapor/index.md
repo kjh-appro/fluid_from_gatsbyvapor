@@ -1,7 +1,6 @@
 ---
 title: Vapor
 date: "2020-03-09"
-tags: [vapor, wikipedia]
 ---
 
 In physics, a vapor (American English) or vapour (British English and Canadian English; see spelling differences) is a substance in the gas phase at a temperature lower than its critical temperature, which means that the vapor can be condensed to a liquid by increasing the pressure on it without reducing the temperature. A vapor is different from an aerosol. An aerosol is a suspension of tiny particles of liquid, solid, or both within a gas.

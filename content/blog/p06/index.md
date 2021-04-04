@@ -1,8 +1,8 @@
 ---
 title: ‘낙태죄’와 ‘Prolife’ 녹취록 2
 date: "2021-04-04T20:10:32.169Z"
-tags: [Review, Research, 낙태, 돌봄노동, 섹슈얼리티, 안티페미니즘, 재생산]
-description: 
+description: This is a custom description for SEO and Open Graph purposes
+thumbnail :
 ---
 
 <h4 style="text-align:center"> 

@@ -2,8 +2,8 @@
 title: 페미로그에 대해서
 date: "2016-05-15T22:40:32.169Z"
 tags: [공지]
-thumbnail :
 description: This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
+thumbnail :
 ---
 
 ###### 페미로그는 페미니즘을 DB화하고 읽고 말하는 유체에 의해 운영됩니다.

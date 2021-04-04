@@ -2,8 +2,9 @@
 title: <WK><T><N> 베티 레인
 date: "2021-04-04T18:52:32.169Z"
 tags: [Wiki, Translation, 2세대페미니즘, 시민권]
-thumbnail :
 description:
+thumbnail :
+
 ---
 
 위키피디아에서 베티 레인 보기(<a href="https://ko.wikipedia.org/wiki/%EB%B2%A0%ED%8B%B0_%EB%A0%88%EC%9D%B8" target="_blank" rel="noopener noreferrer">링크</a>)

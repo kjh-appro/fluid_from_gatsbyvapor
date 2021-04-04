@@ -2,7 +2,8 @@
 title: 메모- 여성성, 동일시
 date: "2021-04-04T20:33:32.169Z"
 tags: [Writing]
-description: 
+description: This is a custom description for SEO and Open Graph purposes
+thumbnail :
 ---
 
 ###### 2020.6.6 여성성에 대해서

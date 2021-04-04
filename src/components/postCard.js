@@ -17,12 +17,6 @@ class PostCard extends Component {
             </h1>
             <small>{props.node.frontmatter.date}</small>
           </header>
-          {props.node.frontmatter.thumbnail &&
-            <Link to={props.node.fields.slug}><img
-              alt={props.node.frontmatter.thumbnail.childImageSharp.fluid.originalName}
-              src={props.node.frontmatter.thumbnail.childImageSharp.fluid.src}
-            /></Link>
-          }
           <section>
             <p
               dangerouslySetInnerHTML={{

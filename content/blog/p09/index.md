@@ -2,7 +2,8 @@
 title: Online discussion (2020 Sep 20th) at g0v HackMD
 date: "2021-04-04T20:59:32.169Z"
 tags: [Writing, Translation, Project]
-description: 
+description: This is a custom description for SEO and Open Graph purposes
+thumbnail :
 ---
 
 2020년 2월 29일부터 g0v, 널채움, 빠띠 등과 함께 Hearstory 프로젝트에 기여하며 아시아에서 동시다발적으로 일어나는 사건과 변화를 기록하고 있습니다. 하단의 미팅록은 허스토리의 후속 방향에 대한 논의글 일부입니다. 한국에서도 더 많은 기여자가 생겨날 수 있도록 내용을 공유합니다. 

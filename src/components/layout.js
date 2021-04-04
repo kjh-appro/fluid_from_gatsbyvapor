@@ -31,7 +31,7 @@ class Layout extends Component {
               <li id="header-nav-first"><Link
             to={`/`}>home</Link></li>
               <li><Link to={`/tags`}>tag</Link></li>
-              <li><a href="https://twitter.com/fluid_from" target="_blank" rel="noopener noreferrer">
+              <li><a href="http://femilog.link/log/">
               log</a></li>
             </ul>
             <ul className="header-link">
@@ -51,7 +51,7 @@ class Layout extends Component {
     src={ require('../components/sns_y.png') }
     width='20px'
     height='20px'/></a></li>
-    <li><a href="https://github.com/kjh-appro/" target="_blank" rel="noopener noreferrer">
+    <li><a href="https://github.com/fluid-from" target="_blank" rel="noopener noreferrer">
               <img
     src={ require('../components/sns_g.png') }
     width='20px'
@@ -72,12 +72,12 @@ class Layout extends Component {
        </div>
 
        <div className="menu-category">
-       <li><a href="https://quirky-euclid-3c931b.netlify.app/tags/css">Research</a></li> 
-       <li><a href="https://quirky-euclid-3c931b.netlify.app/tags/css">Review</a></li> 
-       <li><a href="https://quirky-euclid-3c931b.netlify.app/tags/css">Translation</a></li> 
-       <li><a href="https://quirky-euclid-3c931b.netlify.app/tags/css">Wiki</a></li> 
-       <li><a href="https://quirky-euclid-3c931b.netlify.app/tags/css">Writing</a></li> 
-       <li><a href="https://quirky-euclid-3c931b.netlify.app/tags/css">Project</a></li> 
+       <li><a href="http://femilog.link/tags/research">Research</a></li> 
+       <li><a href="http://femilog.link/tags/review">Review</a></li> 
+       <li><a href="http://femilog.link/tags/translation">Translation</a></li> 
+       <li><a href="http://femilog.link/tags/wiki">Wiki</a></li> 
+       <li><a href="http://femilog.link/tags/writing">Writing</a></li> 
+       <li><a href="http://femilog.link/tags/project">Project</a></li> 
        </div>
 
 <div ID="aside-bar-0">
@@ -96,14 +96,14 @@ class Layout extends Component {
   </li>
 </div>
        <div ID="aside-bar">
-       <li><a href="https://github.com/" target="_blank" rel="noopener noreferrer">2008-2014</a>/
+       <li><a href="http://femilog.link/log_2008-2014/">2008-2014</a>/
 </li>
-<li><a href="https://github.com/" target="_blank" rel="noopener noreferrer">2015-2017</a>/
+<li><a href="http://femilog.link/log_2015-2017/">2015-2017</a>/
 </li>
 <li>
-<a href="https://github.com/" target="_blank" rel="noopener noreferrer">2017-2020</a>/
+<a href="http://femilog.link/log_2017-2020/">2017-2020</a>/
 </li>
-<li><a href="https://github.com/" target="_blank" rel="noopener noreferrer">2021-</a>
+<li><a href="http://femilog.link/log_2021-/">2021-</a>
 </li>
 </div>
 

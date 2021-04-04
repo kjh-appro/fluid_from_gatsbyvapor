@@ -2,7 +2,8 @@
 title: 새 사용자 경험(New Editor Experiences) 인터뷰
 date: "2021-04-04T20:15:32.169Z"
 tags: [Wiki, 오픈소스]
-description: 
+description: This is a custom description for SEO and Open Graph purposes
+thumbnail :
 ---
 
 페미로그의 유체로서 2017년 5월 17일에 '새 사용자 경험(New Editor Experiences)' 프로젝트의 인터뷰를, 위키미디어 재단 (Wikimedia Foundation, Reboot)과 진행했습니다. 이 연구 프로젝트는 한국과 체코에서 진행되었으며, 2017년 8월에 1차 결과물이 발표된 상태입니다. 향후 "재단 임직원과 체코어/한국어 위키백과 사용자와의 워크샵 및 토론"을 통한 개발단계를 거쳐 심화연구 진행도 가능하다고 합니다.

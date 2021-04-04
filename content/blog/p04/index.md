@@ -2,7 +2,8 @@
 title: <WK><T><N> 걸 파워
 date: "2021-04-04T19:16:32.169Z"
 tags: [Wiki, Translation, 걸파워, 마켓페미니즘, RiotGrrl, GirlsCanDoAnything]
-description: 
+description: This is a custom description for SEO and Open Graph purposes
+thumbnail : 
 ---
 
 위키피디아에서 걸 파워 보기(<a href="https://ko.wikipedia.org/wiki/%EA%B1%B8_%ED%8C%8C%EC%9B%8C" target="_blank" rel="noopener noreferrer">링크</a>)

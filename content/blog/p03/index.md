@@ -2,7 +2,8 @@
 title: <WK><T><E> 올랭프 드 구주
 date: "2021-04-04T18:58:32.169Z"
 tags: [Wiki, Translation, 시민권]
-description: 
+description: This is a custom description for SEO and Open Graph purposes
+thumbnail :
 ---
 
 위키피디아에서 올랭프 드 구주 보기(<a href="https://ko.wikipedia.org/wiki/%EC%98%AC%EB%9E%AD%ED%94%84_%EB%93%9C_%EA%B5%AC%EC%A3%BC" target="_blank" rel="noopener noreferrer">링크</a>)

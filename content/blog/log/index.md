@@ -2,7 +2,7 @@
 title: 로그log_full
 date: "2021-04-04T13:10:32.169Z"
 tags: [로그]
-description: 
+description: This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
 ---
 
 페미로그가 있기 이전부터 저의 페미니즘은 트위터계정 7개의 생성-비공개-비활성화의 흐름과 궤를 함께해왔습니다. 타임라인 안팎에서 2008년 7월 7일부터 제가 관심있게 지켜보고, 공부해온 페미니즘 좌표들의 리스트는 이미지와 같습니다. (대)학생, 트잉여, 꼴페미, 애청자, 그루피, 힙스터, 후원자, 시위자, 페미나치, 페...계열 등의 사람으로 저를 분류하고 몇초간이나마 훑어보신다면, 지금 다른 장소에서 다른 시간선으로 만들어지고 있는 리스트를 떠올릴 수 있을 것입니다.

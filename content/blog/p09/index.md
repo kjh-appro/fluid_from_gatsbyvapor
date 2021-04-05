@@ -12,9 +12,7 @@ description:
 
 ---
 
-```shell
-
-website: https://herstory-of-east-asia.netlify.app/
+`website: https://herstory-of-east-asia.netlify.app/
 
 (...)
 
@@ -106,6 +104,5 @@ Transgender,Learning Vue |ddddd |
 
 | Jaeseo | @tjruddl26 | listen carefully, people, happily 
 ever after |
+`
 
-
-```

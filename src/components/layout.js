@@ -86,13 +86,7 @@ class Layout extends Component {
 </div>
 <div ID="aside-bar-hidden">
   
-  <li><a href="https://github.com/">;;;;</a>/
-  <a href="https://github.com/">;;;;</a>/
-  <a href="https://github.com/">;;;;</a>/
-  <a href="https://github.com/">;;;;</a>/
-  <a href="https://github.com/">;;;;</a>/
-  <a href="https://github.com/">;;;;</a>/
-  <a href="https://github.com/">;;;;</a>/
+  <li>;;;;/;;;;/;;;;/;;;;/;;;;/;;;;/;;;;/
   </li>
 </div>
        <div ID="aside-bar">

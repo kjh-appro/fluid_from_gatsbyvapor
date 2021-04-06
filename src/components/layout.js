@@ -86,7 +86,13 @@ class Layout extends Component {
 </div>
 <div ID="aside-bar-hidden">
   
-  <li>;;;;/;;;;/;;;;/;;;;/;;;;/;;;;/;;;;/
+  <li><a href="http://femilog.dothome.co.kr">;;;;</a>/
+  <a href="http://femilog.dothome.co.kr">;;;;</a>/
+  <a href="http://femilog.dothome.co.kr">;;;;</a>/
+  <a href="http://femilog.dothome.co.kr">;;;;</a>/
+  <a href="http://femilog.dothome.co.kr">;;;;</a>/
+  <a href="http://femilog.dothome.co.kr">;;;;</a>/
+  <a href="http://femilog.dothome.co.kr">;;;;</a>/
   </li>
 </div>
        <div ID="aside-bar">

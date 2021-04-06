@@ -12,11 +12,68 @@ description:
 
 ---
 
-`website: https://herstory-of-east-asia.netlify.app/
+website: https://herstory-of-east-asia.netlify.app/
 
 (...)
 
-#### 2. About project future
+##### Self-introduction
+
+```shell
+| name | slack ID on g0v | 
+3key words | interests |
+
+| Kazuki | @kaizumaki | 
+cat, django, github | 
+the female engineer | 
+community and the local 
+community through cats. |
+
+| mami | @mamix1116| 
+cat,map,aibo | 
+
+| Miley | @Miley_c4japan | 
+edu,brain,sleep  | 
+FtO(collaboration with 
+Taiwan,HongKong,Korea 
+and Japan), education,
+gender equality
+
+| Patrice | @Pei4 | cat, 
+UIUX, illustrate | draw, 
+learning new things|
+
+| ael | @ael | UX,gender |  
+
+| Afra | @afra | thinking,
+writing,listening |   
+
+| sl | @lexifdev | developer, 
+korea, community | media |
+
+| Lisbeth | @LisbethW1130 | 
+Womany backend developer,
+Transgender,Learning Vue |
+ddddd |
+
+| kirakira | @aaa | aaa,bbb,ccc |
+ddddd |
+
+| jiwoo | @constmoon | Developer, 
+Korea, Women Techmaker |
+
+| fluid | @fluidto | 長女, Graphic 
+Designer, Feminism Activist | 
+
+| gyujin | @gyujin | 長女, Designer, 
+Feminism Activist | 
+
+| Jaeseo | @tjruddl26 | listen 
+carefully, people, happily 
+ever after |
+
+```
+
+##### 2. About project future
 
 As we (Taiwan) think about, there cloud be two ways to go.
 Also, welcome to provide your ideas.
@@ -49,7 +106,7 @@ each story maybe a good idea, isnt it?
 for source mark, safety.)
 출처표기와 안전 문제만 해결된다면, 이같은 방법도 좋다고 생각합니다. 
 
-#### 3. About Website 
+##### 3. About Website 
 
 Please leave a feedbacks for programers, designers. 
 
@@ -64,45 +121,4 @@ before. What would be nice next, sea?)
 - by Jerry(Taiwan) We should fix the right column to show 
 sotries. Currently, the right story area disappears 
 when scrolling down timeline.
-
-## Online meethack_Jul 25th
-
-### Self-introduction
-
-| name | slack ID on g0v | 3key words | interests |
-
-| -------- | -------- | -------- | -------- 
-
-| Kazuki | @kaizumaki | cat, django, github | the female 
-engineer community and the local community through cats. |
-
-| mami | @mamix1116| cat,map,aibo | |
-
-| Miley | @Miley_c4japan | edu,brain,sleep  | 
-
-FtO(collaboration with Taiwan,HongKong,Korea and Japan),
-education,gender equality
-| Patrice | @Pei4 | cat, UIUX, illustrate | draw, 
-learning new things|
-
-| ael | @ael | UX,gender |  |
-
-| Afra | @afra | thinking,writing,listening |   |
-
-| sl | @lexifdev | developer, korea, community | media |
-
-| Lisbeth | @LisbethW1130 | Womany backend developer,
-Transgender,Learning Vue |ddddd |
-
-| kirakira | @aaa | aaa,bbb,ccc |ddddd |
-
-| jiwoo | @constmoon | Developer, Korea, Women Techmaker |
-
-| fluid | @fluidto | 長女, Graphic Designer, Feminism Activist | 
-
-| gyujin | @gyujin | 長女, Designer, Feminism Activist | 
-
-| Jaeseo | @tjruddl26 | listen carefully, people, happily 
-ever after |
-`
 

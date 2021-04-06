@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: `Femilog`,
     author: `Fluid Kim`,
-    description: `A second blog for Femilog`,
+    description: `© 2021 Femilog, Built with Gatsby`,
     siteUrl: `https://vapor.aesthetic.codes/`,
     social: {
       twitter: ``,

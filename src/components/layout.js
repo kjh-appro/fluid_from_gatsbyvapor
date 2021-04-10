@@ -46,12 +46,12 @@ class Layout extends Component {
     src={ require('../components/sns_t.png') }
     width='20px'
     height='20px'/></a></li>
-              <li><a href="https://twitter.com/fluid_from" target="_blank" rel="noopener noreferrer">
+              <li><a href="https://www.youtube.com/channel/UCsZq-1r-ksmHXaf47LZwytw" target="_blank" rel="noopener noreferrer">
               <img
     src={ require('../components/sns_y.png') }
     width='20px'
     height='20px'/></a></li>
-    <li><a href="https://www.youtube.com/channel/UCsZq-1r-ksmHXaf47LZwytw" target="_blank" rel="noopener noreferrer">
+    <li><a href="http://www.podbbang.com/ch/1780218" target="_blank" rel="noopener noreferrer">
               <img
     src={ require('../components/sns_p.png') }
     width='20px'

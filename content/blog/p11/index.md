@@ -18,5 +18,5 @@ thumbnail : ./potcast.png
 
 ![episode_thum_2_RGB_001](./episode_thum_2_RGB_001.png)
 
-<p style="text-align:center">log 001 : 운동하는 여자에서 역동팡인이 되기까지 (<a href="http://www.podbbang.com/ch/1780218?e=24010737" target="_blank">링크</a>)</p>
+<p style="text-align:center">log 001 : 운동하는 여자에서 역도팡인이 되기까지 (<a href="http://www.podbbang.com/ch/1780218?e=24010737" target="_blank">링크</a>)</p>
 

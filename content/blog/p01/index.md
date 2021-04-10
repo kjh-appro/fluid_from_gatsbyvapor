@@ -15,7 +15,7 @@ thumbnail : ./p01_thumnail.png
 
 ---
 
-2021년 4월 3일에 개편을 끝냈고, 깃허브/팟캐스트/유튜브를 오픈하였습니다. 긴 개편이었습니다. 기다려주신 분들이 있다면 정말 감사합니다-: 
+2021년 4월 3일에 개편을 끝냈고, <a href="https://github.com/fluid-from" target="blank">깃허브</a>/<a href="http://www.podbbang.com/ch/1780218" target="blank">팟캐스트</a>/<a href="https://www.youtube.com/channel/UCsZq-1r-ksmHXaf47LZwytw/videos" target="blank">유튜브</a>를 오픈하였습니다. 긴 개편이었습니다. 기다려주신 분들이 있다면 정말 감사합니다-: 
 
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "공정의 대안을 찾아서" 빠띠믹스 제안
-date: "2021-05-04T00:02:00.000Z"
+title: '공정의 대안을 찾아서' 빠띠믹스 제안
+date: "2021-05-04T00:02:32.169Z"
 tags: [시민권, 노동, 공정]
 description: 
 thumbnail : ./unionxparti.jpg

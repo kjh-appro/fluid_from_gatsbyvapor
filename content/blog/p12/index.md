@@ -7,8 +7,8 @@ description:
 
 지난 4월 24일에 서울청년유니온과 빠띠의 공동 주최로 열린 "공정의 대안을 찾아서" 온라인 행사에 참석했습니다. 빠띠 믹스 페이지에 제안한 내용을 공유합니다. 
 
-- 행사의 안내 정보를 알고 싶은 분들은 여기 (<a href="https://parti.mx/post/DYTJHzh16Qi3J5Th8p0S" target="_blank"> 링크</a>)
-- 발제문 '공정과 노동시장(조성주)'과 '투자 시장, 새로운 '공정'의 장이 되다(조희원)'을 다운받으실 분들은 여기 (<a href="https://parti.mx/post/AXe9Gd8Ua2ngsdeTYwVF" target="_blank"> 링크</a>)
+- 행사의 안내 정보를 알고 싶은 분들은 여기 (<a href="https://parti.mx/post/DYTJHzh16Qi3J5Th8p0S" target="_blank">링크</a>)
+- 발제문 '공정과 노동시장(조성주)'과 '투자 시장, 새로운 '공정'의 장이 되다(조희원)'을 다운받으실 분들은 여기 (<a href="https://parti.mx/post/AXe9Gd8Ua2ngsdeTYwVF" target="_blank">링크</a>)
 
 ---
 

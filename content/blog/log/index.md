@@ -105,6 +105,8 @@ description: This is a custom description for SEO and Open Graph purposes, rathe
 
 - <a href="https://www.facebook.com/groupnullfull/posts/1064974997349145" target="_blank" rel="noopener noreferrer">2021.3.6</a> 2021 오픈데이터데이 X 널채움 _널채움
 
+- <a href="https://parti.mx/syunion/rUToixrmCr7fSnbqLzGJ" target="_blank" rel="noopener noreferrer">2021.3.6</a> "공정의 대안을 찾아서"  _서울청년유니온 X 빠띠
+
 ---
 
 - <a href="http://femilog.dothome.co.kr/index.php/link/" target="_blank" rel="noopener noreferrer">2008.7.7-2016.11.27</a>
@@ -233,3 +235,4 @@ description: This is a custom description for SEO and Open Graph purposes, rathe
 
 - <a href="https://www.facebook.com/groupnullfull/posts/1064974997349145" target="_blank" rel="noopener noreferrer">2021.3.6</a>
 
+- <a href="https://parti.mx/syunion/rUToixrmCr7fSnbqLzGJ" target="_blank" rel="noopener noreferrer">2021.4.24</a>

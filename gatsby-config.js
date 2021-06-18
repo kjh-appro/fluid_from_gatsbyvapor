@@ -1,16 +1,26 @@
 const remark = require("remark");
 
+require("dotenv").config()
+
 module.exports = {
   siteMetadata: {
     title: `Femilog`,
     author: `Fluid Kim`,
-    description: `© 2021 Femilog, Built with Gatsby`,
+    description: `A second blog for Femilog`,
     siteUrl: `https://vapor.aesthetic.codes/`,
     social: {
       twitter: ``,
     },
   },
   plugins: [
+    {
+      resolve: `gatsby-plugin-algolia`,
+      options: {
+        appId: process.env.GATSBY_ALGOLIA_APP_ID,
+        apiKey: process.env.ALGOLIA_ADMIN_KEY,
+        queries: require("./src/utils/algolia-queries")
+      },
+    },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -72,12 +82,11 @@ module.exports = {
     {
       resolve: `@gatsby-contrib/gatsby-plugin-elasticlunr-search`,
       options: {
-        fields: [`title`, `description`, `body`],
+        fields: [`title`, `body`],
         resolvers: {
           MarkdownRemark: {
             title: node => node.frontmatter.title,
             tags: node => node.frontmatter.tags,
-            description: node => node.frontmatter.description,
             slug: node => node.fields.slug,
             body: node => String(remark().processSync(node.rawMarkdownBody)),
             excerpt: node => {

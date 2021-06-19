@@ -1,6 +1,8 @@
-const remark = require("remark");
+require("dotenv").config({
+  path: `.env`
+});
 
-require("dotenv").config()
+const remark = require("remark");
 
 module.exports = {
   siteMetadata: {

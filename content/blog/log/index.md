@@ -107,6 +107,27 @@ description: This is a custom description for SEO and Open Graph purposes, rathe
 
 - <a href="https://parti.mx/syunion/rUToixrmCr7fSnbqLzGJ" target="_blank" rel="noopener noreferrer">2021.4.24</a> "공정의 대안을 찾아서"  _서울청년유니온 X 빠띠
 
+- <a href="https://twitter.com/speakupladies21" target="_blank" rel="noopener noreferrer">2021.7.17-8.4</a> 여성논객양성소
+
+- <a href="https://twitter.com/Femiwikidotcome/status/1418763566102892547?s=20&t=jrXMfyXYFfzcnSLvVYGxrA " target="_blank" rel="noopener noreferrer">2021.7.31</a> 제7회 페미위키 에디터톤
+
+- <a href="https://dmzdocs.com/kor/default.asp" target="_blank" rel="noopener noreferrer">2021.9.14-9.19</a> DMZ 국제다큐멘터리 영화제 2021  
+
+- <a href="https://youtube.com/shorts/8nSQHTsxvlk?feature=share " target="_blank" rel="noopener noreferrer">2021.10.6</a> 더불어민주당 3차 국민/일반당원 선거인단 온라인 투표
+
+- <a href="https://wiki.nullfull.kr/w/%EC%98%A4%ED%94%88%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%8D%B0%EC%9D%B4_2022-03-05" target="_blank" rel="noopener noreferrer">2022.3.5</a> 2022 오픈데이터데이 X 널채움 _널채움
+
+- <a href="https://www.youtube.com/watch?v=foB6JhN9QYE" target="_blank" rel="noopener noreferrer">2022.6.9</a> 이슈토크, 무고죄 강화? 진짜 필요한 것은 강간죄 개정이다! _한국성폭력상담소
+
+- <a href="https://online.sqcf.org/close" target="_blank" rel="noopener noreferrer">2022.7.16</a> 온라인 퀴어퍼레이드 2022 
+
+- <a href="https://dmzdocs.com/kor/default.asp" target="_blank" rel="noopener noreferrer">2022.9.28-10.2</a> DMZ 국제다큐멘터리 영화제 2022
+
+- <a href="https://www.youtube.com/watch?v=9AiGvFtmMCE" target="_blank" rel="noopener noreferrer">2022.10.15</a> 여성가족부 폐지안 규탄 전국 집중 집회
+
+- <a href="https://g0v.hackmd.io/cTq2L7qZQ0iWLx93gV72_Q" target="_blank" rel="noopener noreferrer">2022.10.15</a> 2023 fto (face to ocean) in Jeju Online Meetup _g0v
+
+
 ---
 
 - <a href="http://femilog.dothome.co.kr/index.php/link/" target="_blank" rel="noopener noreferrer">2008.7.7-2016.11.27</a>
@@ -236,3 +257,23 @@ description: This is a custom description for SEO and Open Graph purposes, rathe
 - <a href="https://www.facebook.com/groupnullfull/posts/1064974997349145" target="_blank" rel="noopener noreferrer">2021.3.6</a>
 
 - <a href="https://parti.mx/syunion/rUToixrmCr7fSnbqLzGJ" target="_blank" rel="noopener noreferrer">2021.4.24</a>
+
+- <a href="https://twitter.com/speakupladies21" target="_blank" rel="noopener noreferrer">2021.7.17-8.4</a>
+
+- <a href="https://twitter.com/Femiwikidotcome/status/1418763566102892547?s=20&t=jrXMfyXYFfzcnSLvVYGxrA " target="_blank" rel="noopener noreferrer">2021.7.31</a>
+
+- <a href="https://dmzdocs.com/kor/default.asp" target="_blank" rel="noopener noreferrer">2021.9.14-9.19</a>
+
+- <a href="https://youtube.com/shorts/8nSQHTsxvlk?feature=share " target="_blank" rel="noopener noreferrer">2021.10.6</a>
+
+- <a href="https://wiki.nullfull.kr/w/%EC%98%A4%ED%94%88%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%8D%B0%EC%9D%B4_2022-03-05" target="_blank" rel="noopener noreferrer">2022.3.5</a>
+
+- <a href="https://www.youtube.com/watch?v=foB6JhN9QYE" target="_blank" rel="noopener noreferrer">2022.6.9</a>
+
+- <a href="https://online.sqcf.org/close" target="_blank" rel="noopener noreferrer">2022.7.16</a>
+
+- <a href="https://dmzdocs.com/kor/default.asp" target="_blank" rel="noopener noreferrer">2022.9.28-10.2</a>
+
+- <a href="https://www.youtube.com/watch?v=9AiGvFtmMCE" target="_blank" rel="noopener noreferrer">2022.10.15</a>
+
+- <a href="https://g0v.hackmd.io/cTq2L7qZQ0iWLx93gV72_Q" target="_blank" rel="noopener noreferrer">2022.10.15</a>
